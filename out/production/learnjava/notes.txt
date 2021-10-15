@@ -1,0 +1,26 @@
+package/package structure - absolute file name of the program file
+    - optional
+    - declared on the first line
+    - domain name in reverse
+    - package com.marcusbiel.javacourse.lesson1
+    - reflect structure of program
+    - related to the purpose
+
+import -
+    -follows package declaration
+
+class - contains code related to one thing usually a noun
+    - keep classes as small as possible to increase reusability
+    - a template
+    - defines behavior
+
+method/function - does a thing
+
+access modifiers:
+    public -
+    private -
+
+@ - annotation
+CamelCase
+. - execute the method on the variable
+ - car.drive()
